@@ -1,0 +1,4 @@
+# Ignore sensitive config files
+api_keys.json
+firebase_config.json
+.env
