@@ -1,0 +1,27 @@
+# Groov3Sphere Proprietary License
+
+## **Ownership & Rights**
+Copyright (c) 2025 Danavian Jones  
+All rights reserved.
+
+This software, Groov3Sphere, including all associated code, designs, UI elements, branding, and features, is the exclusive property of **Danavian Jones** and may not be copied, modified, distributed, or used in any form without express written permission.
+
+## **Usage Restrictions**
+- You **may not** reproduce, distribute, sublicense, or sell this software.  
+- You **may not** reverse engineer, decompile, or modify the source code.  
+- Any attempt to copy, replicate, or monetize Groov3Sphere without explicit authorization from the owner is strictly prohibited.  
+
+## **Commercial & API Usage**
+- All commercial rights are owned by **Danavian Jones**.  
+- Third-party API integrations (e.g., YouTube, Spotify) are subject to their respective terms but cannot be resold or altered within this application without explicit permission.  
+- Any user contributions, suggestions, or collaborations do not grant rights to the software unless explicitly agreed upon in writing.  
+
+## **Legal Disclaimer**
+This software is provided "as is" without any warranty of any kind. The owner is not responsible for any damages, losses, or liabilities resulting from the use of this software.
+
+## **Contact for Licensing Inquiries**
+For official licensing, business use, or partnership requests, contact:  
+📧 **groov3sphere@gmail.com**
+
+---
+By using, accessing, or engaging with Groov3Sphere, you agree to these terms. Unauthorized use will be subject to legal action.
