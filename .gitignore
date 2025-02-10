@@ -2,6 +2,4 @@
 api_keys.json
 firebase_config.json
 .env
-git add .
-git commit -m "Updated security settings"
-git push origin main
+
